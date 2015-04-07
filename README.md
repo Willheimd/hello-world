@@ -1,2 +1,3 @@
 # hello-world
 My first repository on GitHub.
+$7/month to make a private repository...
